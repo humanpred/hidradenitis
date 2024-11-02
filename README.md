@@ -1,10 +1,10 @@
 # hidradenitis
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/billdenney/hidradenitis/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/billdenney/hidradenitis/actions/workflows/R-CMD-check.yaml)
-[![Codecov test coverage](https://codecov.io/gh/billdenney/hidradenitis/branch/main/graph/badge.svg)](https://app.codecov.io/gh/billdenney/hidradenitis?branch=main)
+[![R-CMD-check](https://github.com/humanpred/hidradenitis/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/humanpred/hidradenitis/actions/workflows/R-CMD-check.yaml)
+[![Codecov test coverage](https://codecov.io/gh/humanpred/hidradenitis/branch/main/graph/badge.svg)](https://app.codecov.io/gh/humanpred/hidradenitis?branch=main)
 [![CRAN status](https://www.r-pkg.org/badges/version/hidradenitis)](https://CRAN.R-project.org/package=hidradenitis)
-[![CodeFactor](https://www.codefactor.io/repository/github/billdenney/hidradenitis/badge)](https://www.codefactor.io/repository/github/billdenney/hidradenitis)
+[![CodeFactor](https://www.codefactor.io/repository/github/humanpred/hidradenitis/badge)](https://www.codefactor.io/repository/github/humanpred/hidradenitis)
 <!-- badges: end -->
 
 The goal of the `hidradenitis` package is to support use and interpretation of
@@ -26,7 +26,7 @@ You can install the development version of hidradenitis from [GitHub](https://gi
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("billdenney/hidradenitis")
+devtools::install_github("humanpred/hidradenitis")
 ```
 
 ## Example
