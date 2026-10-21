@@ -10,7 +10,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/humanpred/hidradenitis/blob/main/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/humanpred/hidradenitis/blob/v1.0.1/DESCRIPTION)
 
 Denney B, Bartlett D (2026). *hidradenitis: Calculate Clinical Scores
 for Hidradenitis Suppurativa (HS), a Dermatologic Disease*. R package
